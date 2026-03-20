@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #1B244A;
+    color: white;
+    text-align: center;  
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+@font-face {
+    font-family: "cursed-timer";
+    src: url(./CursedTimerUlil-Aznm.ttf);
+}
+
+.points {
+    display: flex;
+    justify-content: space-around;
+}
+
+.scoreboard {
+    background-color: black;
+    width: 155px;
+    max-height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.score {
+    font-family: "cursed-timer";
+    font-size: 90px;  
+    color: #F94F6D;
+    padding: 10px 0px 0px 0px;
+}
+
+.side {
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.point-adder {
+    border: 2px solid #9AABD8;
+    padding: 10px;
+    color: #9AABD8;
+    border-radius: 5px;
+    font-family: "cursed-timer";
+}
+
+.reset-button {
+    background: none;
+    border: 2px solid white;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: "cursed-timer";
+    margin-top: 20px;
+}
+
+.point-adder:hover {
+    border: 2px solid white;
+    color: white;
+}
+
+.reset-button:hover {
+    color: darkkhaki;
+    border: 2px solid darkkhaki;
+}
