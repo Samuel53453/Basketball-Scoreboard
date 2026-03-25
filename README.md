@@ -6,8 +6,8 @@ This project allows users to track and update scores for two teams in real-time 
 Created as a solo project, part of the **Scrimba Fullstack Developer Path**, this project focuses on practicing **DOM manipulation and event handling**.
 
 ## 🎥 Video Preview
+https://github.com/user-attachments/assets/6e861062-8765-431a-a652-4569a6efdccc
 
-*(Insert your video preview here)*
 
 ## 🛠 Technologies Used
 
